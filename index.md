@@ -2,6 +2,12 @@
 
 If you need any support about this app, please send e-mail to [my.own.cookbook.sh@gmail.com](mailto:my.own.cookbook.sh@gmail.com).
 
+### 21st Oct 2019, version 1.0.4
+
+Few enhancements have been made.
+* Bug fixes for better reliability.
+* Adding onboarding screens for first time users.
+
 ### 24th Sept 2019, version 1.0.3
 
 Few enhancements have been made.
