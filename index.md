@@ -5,8 +5,9 @@ If you need any support about this app, please send e-mail to [my.own.cookbook.s
 ### 21st Oct 2019, version 1.0.4
 
 Few enhancements have been made.
-* Bug fixes for better reliability.
-* Adding onboarding screens for first time users.
+* Food categorisation is supported.
+* Few bug fixes including some crashes.
+* Onboarding screens to help new users are added.
 
 ### 24th Sept 2019, version 1.0.3
 
